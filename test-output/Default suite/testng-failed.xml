@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.la.TestRunner.TestRunner">
+        <methods>
+          <include name="tearDown"/>
+          <include name="feature"/>
+          <include name="setUpCass"/>
+        </methods>
+      </class> <!-- com.la.TestRunner.TestRunner -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
