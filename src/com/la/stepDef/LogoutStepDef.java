@@ -22,7 +22,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-public class LeaseAccelaratorLogoutStepDef {
+public class LogoutStepDef {
 
 	public static WebDriver driver;
 	PropertiesFileReader obj = new PropertiesFileReader();

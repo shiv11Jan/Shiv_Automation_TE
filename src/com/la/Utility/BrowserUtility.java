@@ -11,7 +11,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 
 
-public class LAbrowserUtility {
+public class BrowserUtility {
 	
 
 	WebDriver driver;

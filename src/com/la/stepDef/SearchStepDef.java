@@ -36,7 +36,7 @@ import org.joda.time.DateTime;
 
 
 
-public class LeaseAccelaratorSearchStepDef {
+public class SearchStepDef {
 
 	public static WebDriver driver;
 	public static Workbook wb;
